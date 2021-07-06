@@ -6,5 +6,7 @@ public class HelloWorldGit {
         System.out.println("Hello World Git");
 
         System.out.println("Test juniora");
+
+        System.out.println("Ostatnia galaz");
     }
 }
