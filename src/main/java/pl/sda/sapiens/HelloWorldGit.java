@@ -10,5 +10,7 @@ public class HelloWorldGit {
         System.out.println("Ostatnia galaz");
 
         System.out.println("Master zmienia plik");
+
+        System.out.println("Ostatnia zmiana v2");
     }
 }
