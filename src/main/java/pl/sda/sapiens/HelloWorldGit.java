@@ -8,5 +8,7 @@ public class HelloWorldGit {
         System.out.println("Test juniora");
 
         System.out.println("Ostatnia galaz");
+
+        System.out.println("Master zmienia plik");
     }
 }
